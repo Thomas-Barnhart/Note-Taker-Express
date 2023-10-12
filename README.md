@@ -1,4 +1,4 @@
-# Note Taker Express.js
+# Note-Taker-Express
 
 Using express.js to create and have a productive note taker to save and retrieve user notes.
 
@@ -26,13 +26,9 @@ Using express.js to create and have a productive note taker to save and retrieve
 
 This project is an Express.js-based note-taking application designed to simplify the process of creating, storing, and retrieving user notes. With a user-friendly interface, it offers a seamless experience for individuals looking to manage their thoughts, ideas, and important information efficiently. Built with robust backend functionality, this app ensures data security and easy access, making it a valuable tool for students, professionals, and anyone seeking a productive way to organize their notes.
 
-![]()
-
 ### Usage
 
 The Express.js-based note taker app is a powerful and user-friendly tool for keeping track of your thoughts, ideas, and important information. With this app, you can easily create, save, and retrieve your notes, ensuring that you never lose any valuable insights or reminders. Whether you need to jot down quick thoughts on the go or organize detailed notes for various projects, this app has got you covered. Its intuitive interface allows you to create and edit notes effortlessly, and the app's robust backend ensures that your data is securely stored and readily accessible. Whether you're a student, a professional, or simply someone looking for an efficient way to manage your thoughts, the note taker app built with Express.js is your ideal companion for staying organized and productive.
-
-![]()
 
 ## Start Your Own
 
@@ -46,7 +42,7 @@ Currently no test has been setup for this application.
 
 Deployed on Heroku:
 
-
+https://thomas-barnhart-note-taker.herokuapp.com/. 
 
 ## Live Screen Recording of Application Functionality
 
