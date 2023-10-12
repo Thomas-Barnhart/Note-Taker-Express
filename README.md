@@ -14,6 +14,9 @@ Using express.js to create and have a productive note taker to save and retrieve
 * [Start Your Own](https://github.com/Thomas-Barnhart/Note-Taker-Express#start-your-own)
   - [Test Instructions](https://github.com/Thomas-Barnhart/Note-Taker-Express#test-instructions)
 
+- [Deployed Application](https://github.com/Thomas-Barnhart/Note-Taker-Express#Live-URL-of-Deployed-Application)
+- [Live Screen Recording of Application Functionality](https://github.com/Thomas-Barnhart/Note-Taker-Express#Live-Screen-Recording-of-Application-Functionality)
+
 - [License](https://github.com/Thomas-Barnhart/Note-Taker-Express#license)
 - [Roadmap](https://github.com/Thomas-Barnhart/Note-Taker-Express#roadmap)
 - [Contribute](https://github.com/Thomas-Barnhart/Note-Taker-Express#contribute)
@@ -38,6 +41,16 @@ Copy this project on your local computer.
 ### Test Instructions
 
 Currently no test has been setup for this application.
+
+## Live URL of Deployed Application
+
+Deployed on Heroku:
+
+
+
+## Live Screen Recording of Application Functionality
+
+
 
 ### License
 
